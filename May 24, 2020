@@ -1,0 +1,121 @@
+# Cyber News Roundup May 24, 2020
+
+Hey everyone, 
+
+This is your Memorial Day edition of the Cyber News Roundup! 
+
+## On Coronavirus … 
+
+On May 7, 2020, the MIT Technology Review published a really interesting article titled, "The US has no idea how to manage all the [testing data it’s collecting](https://www.technologyreview.com/2020/05/07/1001311/how-to-manage-coronavirus-testing-data-collection-management-reporting-state-health-departments/). This reminded me of a few things … firstly was the documentary "[Kill Chain] (https://youtu.be/AwSVN_dgio8)". The US has a federated model of voting, which can at times contribute to security. It may be hard to exploit weakness in several different manufacturers. However, it may also perceived as a weakness in that it it may be difficult to standardize security. 
+
+There are similar standardization issues with coronavirus testing. For example, according to MIT Technology Review: 
+
+"Every state health department reports the number of positive and negative tests. But then disparities arise. States can choose whether or not to slice the numbers up geographically (like by zip code); tally recovered cases and deaths (confirmed and probable); show hospitalizations and factors like ventilator or ICU usage; or include demographic information like patients’ ethnicity, age, sex, and preexisting conditions."
+
+In this regard, it appears that coronavirus may change the way that we look at [cyber norms](https://www.cfr.org/blog/using-covid-19-double-down-cyber-norms). Now, this isn’t just nationally as we collect testing information, but internationally as we continue to share data regarding the pandemic. Some of these norms can be compartmentalized, to only include issues related to coronavirus. However, some of them may also have a future effect on how we cooperate on issues like industrial espionage, and data theft, and move towards a more progressive future. 
+
+
+##On Missed Opportunities … 
+
+Harvard Law School students developed a report on [anti-COVID tech](https://cyber.harvard.edu/story/2020-05/hls-students-examine-digital-responses-covid-19) as part of their [Governing Digital Technology](https://cyber.harvard.edu/teaching/2020-02/governing-digital-technology-spring-2020) course. They produced a [paper](https://cyber.harvard.edu/sites/default/files/2020-05/Contact_Tracing_Report_Final.pdf) on the relationship between digital technology and pandemic mitigation. Their report addresses some of the complexities associated with contact tracing, misinformation, and other digital complexities related to the coronavirus. All of this is being performed in an effort to advise policymakers and the public. 
+
+
+## On the Commodification of Consent… 
+
+On May 20, 2020, I saw an interesting post from [@random_walker](https://twitter.com/random_walker/status/1263107307308810241) regarding [dark patterns](https://www.darkpatterns.org/) and cookie consent. He wrote: 
+
+"The surveillance economy responded to privacy regulation by stuffing cookie consent dialogs with dark patterns. Here's the next innovation: treating user consent for tracking as an asset that can be traded between firms."
+
+Additionally, @random_walker included the following paper from the University of Innsbruck, Austria: [The Commodification of Consent](https://informationsecurity.uibk.ac.at/pdfs/DW2020_CommodificationConsent_WEIS.pdf). The paper focuses on how user consent in re-purposed and re-shared among publishers and vendors, like advertisers. 
+
+Earlier in May, we discussed issues with [cookie consent walls](https://techcrunch.com/2020/05/06/no-cookie-consent-walls-and-no-scrolling-isnt-consent-says-eu-data-protection-body/). Basically, sites were forcing user activity in order to view content, which is against the spirit of GDPR.  According to TechCrunch, "in order for consent to be legally valid under Europe’s General Data Protection Regulation (GDPR) there are specific standards to meet: It must be clear and informed, specific and freely given.” These consent banners were referred to as 'consent walls.’ In May, the [European Data Protection Board (EDPB)](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202005_consent_en.pdf).
+
+There are however other issues associated with cookie consent. While unrelated to the previous article, cybercriminals have obtained an orphaned Amazon AWS S3 bucket that was used to host cookie consent. The cookie consent logo that is being delivered contains a [ransomware script](https://borncity.com/win/2020/05/20/warning-infected-cookie-consent-logo-delivers-ransomware/). This is not the first time that there has been warning of an attack via a cookie consent policy. According to Born’s Tech and Windows World, there were warnings in 2018 of [similar attacks](https://blog.sucuri.net/2018/08/cookie-consent-script-used-to-distribute-malware.html). 
+
+All of these issues present a number of policy questions, a number of these which are brought up in [the paper](https://informationsecurity.uibk.ac.at/pdfs/DW2020_CommodificationConsent_WEIS.pdf).  As much as I hate to say it, a lot of these problems likely stem from GDPR or at least in the initial phrasing of the cookie policies. While the paper referenced an FTC ruling in 1999, they wrote, "For legal risk to spur behavioural change, the expected cost in terms of the likelihood and impact of legal action must outweigh the benefits from continuing the activity.” Second, is the stakeholders. This holds true in this study, and across policy decisions writ large. Further, what incentives have been created to create change, and are there any gaps? For example, can consent be re-used? Can this be monetized into a revenue stream? 
+
+A really great paper, I am still pouring through the information. Recommend you read if you get a chance. 
+
+For further information on dark patterns, Netflix will start cancelling accounts for individuals that are not using the service (https://media.netflix.com/en/company-blog/helping-members-who-havent-been-watching-cancel). For those of you that are interested in reading more in frictionless design, since it is design that is facilitating that user interaction between user and product, and may have an effect on the way that [policy is being implemented](https://uxdesign.cc/the-tyranny-of-frictionless-design-1325ab14432c).
+
+… one more thing on Netflix. Indonesia is levying a 10% digital tax on services with a "[significant economic presence](https://www.techinasia.com/indonesia-impose-10-digital-services-tax)."
+
+According to the finance ministry’s directorate general of taxes, digital products such as music and video streaming, apps, and games “will be treated [on a] level playing field as other local products that have been subject to VAT.”
+
+Streaming companies that do not have a legal entity in Indonesia, like US streaming platform Netflix and Swedish streaming platform Spotify. 
+
+
+## On Third Party Resources (and [Referrer Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy)… 
+
+Approximately three weeks ago, Zach Edwards published a Medium post titled, [The 2020 URL Querystring Data Leaks — Millions of User Emails Leaking from Popular Websites to Advertising & Analytics Companies](https://medium.com/@thezedwards/the-2020-url-querystring-data-leaks-millions-of-user-emails-leaking-from-popular-websites-to-39a09d2303d2). While these would not be considered a “breach” by our conventional definition, in that there is no sensitive, personal, or payment card data … but largely metadata. This metadata includes information about the user, including, "what page a user is visiting, what type of device and browser they are using, their location, and other forms of fingerprinting / cookies / URL querystring/ URL parameters that are used by advertising and analytics companies.” If a user did not have Javascript requests block, their information may have been leaked. 
+
+A few days ago, [@bcrypt](https://twitter.com/bcrypt/status/1263519720654860289) published a tweet regarding third-party resources. She wrote, "if your site requests *any* third-party resources, either you need to ensure no personal data/tokens are ever in the URL or set a non-default referrer policy to make sure you're not leaking user data to third parties.” Some browsers do that by default, like Brave, however others may be vulnerable. Brave implemented this “spoof-when-crossorigin” policy because that is what the Tor team suggested, in 2015! @bcrypt highlighted issues with the current default is most other browsers is “[no-referrer-when-downgrade](https://github.com/w3c/webappsec-referrer-policy/pull/125)," which may leak some of this content by default. 
+
+What are the problems here? Well, there is a lot of third party content being put on websites. Is this inherent to the architecture of the internet? Or in other words, does the current setup of the internet allow this behavior? What are the incentives driving type of behavior? Further consider, should it be the job of the browsers to block this behavior? Or should there be other policies directed to web developers on allowable content on websites? Are there any other changes that can be made to further enforce security, or incentivize behavior empowering the users?
+
+I feel like I am not being clear … so here is an example. The New York Times is phasing out all [3rd-party advertising data](https://www.axios.com/new-york-times-advertising-792b3cd6-4bdb-47c3-9817-36601211a79d.html). [Third-party data](https://digiday.com/marketing/advertisers-responding-googles-third-party-cookie-crackdown/) is being phased out from a number of websites because they are deemed to have a negative [effect on privacy](https://www.nytimes.com/2019/12/29/technology/california-privacy-law.html). Many websites need ads in order to raise revenue, so it will rely on first-party data, which is essentially data that they directly collect. Is this a scalable solution? Likely not, since a lot of other platforms may not have the user base or data to source their own first party data. 
+
+
+## On Online Ads (and Third Party Resources) … 
+
+Apparently, Google is monopolizing online ads. The US government is getting ready to sue Google for [monopolizing online ads](https://www.theverge.com/2020/5/15/21260494/google-antitrust-lawsuit-online-ad-monopoly-texas-justice-department). Texas Attorney General Ken Paxton believes that Google has 7,000 data points on every human being alive! Compare that to Cambridge Analytica’s 5,000 data points. Paxton also included, “They control the buy-side [of online advertising], the sell-side and the market which we are concerned gives them way too much power.”
+
+
+## On Publicly Disclosed Vulnerabilities … 
+
+Last week, I mentioned that US-CERT released an alert with the [Top 10 Routinely Exploited Vulnerabilities](https://www.us-cert.gov/ncas/alerts/aa20-133a). I saw another interesting Tweet, related to the advisory. On an extremely [long thread](https://twitter.com/benhawkes/status/1262776034471972864) from [Project Zero](https://googleprojectzero.blogspot.com/) team lead [@benhawkes](https://twitter.com/benhawkes). He stated that, "Importantly, attackers aren't using publicly disclosed security research in the same way that they used to, except when a bug is extraordinarily trivial to exploit. And the chances that we can stop attackers from learning about those bugs through patch analysis is very low.” I am going to pull out two points from @benhawkes here: 1. "But it's very rare that a vulnerability disclosure meaningfully increases attacker capability, relative to their existing capability. And compared to silent fixes or non-disclosure, the net result of vulnerability disclosure is overwhelmingly better for defensive outcomes.” and 2. "So on the sweeping claims of irresponsible disclosure, emotion-driven policy making, assumptions of bad faith. Let's talk about models, data, and forecasting instead. I think we can make some very good predictions about which CVEs are likely to cause significant user harm."
+
+While vulnerability disclosure is increasingly important so companies can take proactive actions to stop active exploitation, we need to update our understanding of exploitation to create better policies. For example, are we basing our patch management program based on active exploitation, or antiquated models based upon emotions and bias? Do we have metrics to support our policies? Are we properly allocating resources, or should it be put towards other forms of defense? 
+
+Now, I don’t think that there is an answer to any one of these questions, because it does depend. Empowering defenders with an understanding of vulnerabilities helps provide context to class. Rolling up the top ten most commonly exploited vulnerabilities also helps defenders actively prioritize defense. 
+
+Somewhat along these lines, Kaspersky has released a blog regarding their [disclosure ethics](https://www.kaspersky.com/blog/vulnerability-disclosure-ethics/). How does an understanding of their policies help transparency and build trust?
+
+I am not sure what motivated this Tweet from [@cyb3rops](https://twitter.com/cyb3rops), but he posited an interesting query regarding vulnerabilities. "If you release a tool that uses a technique that no vendor is yet able to detect, isn’t this as unethical as releasing a 0day? Isn’t it the same race for detection coverage as it is for a patch before it gets exploited by criminals?”
+
+While I didn’t respond in thread, I believe he was referring to this next article … 
+
+
+##On FBI vs. Apple (part II) … 
+
+The FBI successfully broke into a [gunman’s iPhone](https://www.theverge.com/2020/5/18/21262347/attorney-general-barr-fbi-director-wray-apple-encryption-pensacola)! Investigators claim that they were able to get access to the shooter’s phone without Apple, and that they had [associations with al-Qaeda](https://www.justice.gov/opa/pr/attorney-general-william-p-barr-and-fbi-director-christopher-wray-announce-significant) … which may help instantiate their claim. Apple claimed that they provided investigators with iCloud data from the shooter’s account, and also provided other technical assistance. However, they would not be able to break the phone's encryption. 
+
+According to [NBC News](https://www.nbcnews.com/tech/security/fbi-cracked-another-iphone-it-s-still-not-happy-apple-n1209506), the FBI was able to access the phone by using, “an automated passcode guesser.” (Unrelated, but check out this paper, [This PIN Can Be Easily Guessed](https://this-pin-can-be-easily-guessed.github.io/). This incident furthers the [Going Dark](https://www.fbi.gov/news/speeches/going-dark-are-technology-privacy-and-public-safety-on-a-collision-course) debate by driving contention between tech companies like Apple, and law enforcement. While Apple claims they provided support, what is the threshold for support? How should they balance the privacy and security of their customers, versus the objectives of law enforcement? Can those two always be weighted equally, or will there always be contention? What effect (if any) will this have on the [encryption debate](https://www.theverge.com/2020/3/3/21158030/encryption-explainer-guide-law-enforcement-apple-fbi). 
+
+
+## On Search … 
+
+Well, there are changes actively taking place that may affect the outcome of this debate. A judge has [recently ruled](https://cdn.arstechnica.net/wp-content/uploads/2020/05/gov.uscourts.wawd_.274574.73.0.pdf) that law enforcement needs a warrant to  look at a lock screen. So police are able to conduct searches without a search warrant under special circumstances. However, if FBI physically turns on a cell phone to look at the phone’s lock screen, that technically defines a search. So be careful what notifications you choose to show on your lock screen! But also, [don’t be evil](https://www.entrepreneur.com/article/344493). 
+
+
+## On Section 230 … 
+
+Okay, so there is a bit of terrorism overlap here. In 2016, there was a law suit [Force v. Facebook](https://www.theverge.com/2016/7/12/12158292/facebook-lawsuit-israel-hamas-palestinian-attacks), which claimed that Facebook provided ‘material support’ to Hamas because they used Facebook’s platform for communications, which likely resulted in their ability to facilitate terrorist activity. According to the Communications Decency Act (CDA), However, the [Second Circuit appeals court](https://blog.ericgoldman.org/archives/2019/07/second-circuit-issues-powerful-section-230-win-to-facebook-in-material-support-for-terrorists-case-force-v-facebook.htm) did not believe this was a compelling argument.
+
+I should also note that on May 6, Facebook announced their oversight board, which will provide [accountability and transparency](https://www.justsecurity.org/70234/facebooks-oversight-board-a-meaningful-turn-towards-international-human-rights-standards/). According to Mark Zuckerberg, it will provide “binding decisions” and “policy advisory statements” regarding freedom of expression, and human rights on their platform. 
+
+
+## On Surveillance … 
+
+The German Constitutional Court ruled that the privacy rights of the German constitution protect [foreigners in other countries](https://www.eff.org/deeplinks/2020/05/victory-german-mass-surveillance-abroad-ruled-unconstitutional). Additionally, the Bundesnachrichtendienst (BND) has no authority to conduct surveillance on foreign nationals. This was pushback into Germany’s previous [collection of information](https://www.stiftung-nv.de/de/publikation/germanys-intelligence-reform) on foreign nationals. 
+
+## On Zoom … 
+
+Coronavirus is changing the way that we communicate. It has accelerated our ability to work remotely, challenged our ability to stay connected, and pushed the limits of new technology … including Zoom. In Texas, a court is holding the first jury trial by Zoom (https://www.theverge.com/2020/5/18/21262506/texas-court-jury-trial-zoom-remote-virtual-verdict). To talk more about the human effects, I recommend checking out Paul Ford’s latest piece in Wired, [We Are All Livestreamers Now, and Zoom Is Our Stage](https://www.wired.com/story/we-are-all-livestreamers-now-zoom-stage/). 
+
+
+##On Data Breach Investigations Reports … 
+
+Sometimes, when we’re lucky, Verizon’s Data Breach Investigations Report (DBIR) is available during the semester. Unfortunately, that is not the case this year. However, it still almost feels like Christmas whenever the DBIR is released … [so here it is](https://enterprise.verizon.com/resources/reports/2020-data-breach-investigations-report.pdf)! I haven’t had the chance to fully go through it, but I will likely continue to reference it until 2021. 
+
+
+## On Dystopian Futures … 
+
+I will leave you with this last piece describing a very dystopian future, [How high is your digital life score?](https://www.tomorrowunlocked.com/digital-social-rating). 
+
+And maybe to feel better (or worse), checkout this commentary on [2008’s Wall-E](https://www.theverge.com/21266860/wall-e-pixar-movie-yesterdays-future).
+
+
+## On Artificial Intelligence … 
+
+Lastly, I will leave with some nuggets of Artificial Intelligence. First, lets us [define Intelligence](https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/). Secondly, here is a commentary of [DARPA’s Strategic Computing Program](https://warontherocks.com/2020/05/cautionary-tale-on-ambitious-feats-of-ai-the-strategic-computing-program/) … a cautionary tale! Should we outsource our post-COVID recovery to an [artificial intelligence](https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/)? What is the ethics of artificial intelligence, and should we enforce [global norms](https://www.nesta.org.uk/report/chinas-approach-to-ai-ethics/). 
