@@ -1,0 +1,67 @@
+# Cyber News Roundup May 31, 2020 
+
+Happy Sunday! 
+
+This week, the internet broke apart! Now when we say the internet broke apart, we are generally referring to changes or pushback to Section 230 of the Communications Decency Act (CDA). 
+
+If you remember, [Section 230 states](https://www.law.cornell.edu/uscode/text/47/230): 
+
+>*No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.*
+
+So what happened with Section 230? 
+
+## On Section 230 … 
+
+The Trump Whitehouse published an [Executive Order on Preventing Online Censorship](https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/).
+ The order may affect some of the liability protections from the CDA (above), and has had the internet reeling over the last few days. While several people have pushed back against the EO on Twitter ([including Twitter](https://www.nytimes.com/2020/05/28/technology/trump-twitter-fact-check.html)), the National Telecommunication and Information Administration has [60 days to file a petition](https://www.theverge.com/2020/5/28/21273822/trump-signs-executive-order-facebook-twitter-section-230-social-media-companies?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) with the Federal Communications Commission (FCC). The issue at play is the “good faith” provision under the civil liability. Basically, no platform can be held lability for any action taken in “[good faith](https://www.law.cornell.edu/uscode/text/47/230)” to restrict access or make content available to information content providers.
+
+So what is the context of this EO? 
+
+The Verge has a [really nice timeline](https://www.theverge.com/21275532/trump-twitter-social-media-tweets), but generally it started on May 26, 2020 when Twitter labeled a [Tweet from the President](https://www.nytimes.com/2020/05/26/technology/twitter-trump-mail-in-ballots.html) as ‘[potentially misleading](https://blog.twitter.com/en_us/topics/product/2020/updating-our-approach-to-misleading-information.html).’ On May 11, 2020, Twitter published a post regarding their updated approach to misleading information. This is an extension of their [March policy](https://blog.twitter.com/en_us/topics/company/2020/An-update-on-our-continuity-strategy-during-COVID-19.html), which labeled Tweets that went against local public health information on COVID-19. The labeling is designed to alert people if content is confusing and/or misleading. 
+
+Twitter (Tweeted that)[https://twitter.com/Policy/status/1266170586197262337], "This EO is a reactionary and politicized approach to a landmark law,” the tweet said. “#Section230 protects American innovation and freedom of expression, and it’s underpinned by democratic values. Attempts to unilaterally erode it threaten the future of online speech and Internet freedoms.” A Facebook spokesperson similarly delivered a statement opposing the order, noting that these measures are being implemented to protect their community from harmful content. 
+
+I won’t get into all of the commentary on Twitter regarding the EO. However, as a number of armchair constitutional law experts have suddenly cropped up on Twitter, there are some [helpful guides](https://twitter.com/tiffanycli/status/1266059544318349313) to understand the current arguments. Just make sure that you are reading [both sides](https://twitter.com/donie/status/1266808857201971201) of the argument. 
+
+Part of the conversation revolves around [Trump accusing social media of anti-conservative bias](https://www.npr.org/2020/05/27/863422722/trump-accuses-social-media-of-anti-conservative-bias-after-twitter-marks-his-twe). The US appeals court in Washington, D.C. [dismissed a lawsuit accusing tech companies of quelling conservative voices](https://techcrunch.com/2020/05/27/appeals-court-rules-in-favor-of-google-apple-facebook-and-twitter-in-anti-conservative-bias-suit/). The suit, Freedom Watch, Inc, v. Google, Inc. was filed by a non-profit, however according to TechCrunch, they failed to support their claim that the companies were “state actors.” TechCrunch also stated, "the companies cannot violate the first amendment, because banning users doesn’t constitute government abridgment of free speech.” 
+
+## On First Amendment … 
+
+A lot happened this week, and a lot happened on social media as a reaction to real world events. Zeynep Tufecki had a really good commentary about the [deterrent factor of social media](https://www.theatlantic.com/technology/archive/2020/05/case-social-media-mobs/612202/). As she mentions in her piece, the social media mob can at times sidestep fairness and due process. But at times, Tufecki continues, they can also protect the victims that may not be able or equipped to protect themselves. 
+
+However, we should still consider the stakeholders at play here. Obviously, there are the users. But the platforms are the major stakeholder here, because the content is ultimately being displayed on their site. This goes back to the Section 230 issue, but how should we react against the voices that are democratic, or not American (or both)? According to the Verge, [YouTube is deleting comments with two phrases that insult China’s Communist Party](https://www.theverge.com/2020/5/26/21270290/youtube-deleting-comments-censorship-chinese-communist-party-ccp). YouTube confirmed that this was happening in error, for words that contained “共匪” (“communist bandit”) or “五毛” (“50-cent party”). According to [the Verge](https://www.theverge.com/2020/5/26/21270290/youtube-deleting-comments-censorship-chinese-communist-party-ccp):
+
+>The term “共匪” is an insult that dates back to China’s Nationalist government, while “五毛,” (or “wu mao”) >is a derogatory slang term for internet users paid to direct online discussion away from criticism of the CCP. >The name comes from claims that such commenters are paid 50 Chinese cents per post.
+
+Twitter and Reddit are challenging a new U.S. ruling that requires visa applications to disclose their social media handles. The decision is part of an “enhanced” screening protocol, and be used to determine that an individual may require more rigorous vetting. According to [Tech Crunch](https://techcrunch.com/2020/05/29/twitter-reddit-visa-social-media-handles/), these rules may affect individuals ability to, "“to speak anonymously and associate privately.”
+
+## On Surveillance … 
+
+House Democrats are pulling a bill to reauthorize the Foreign Intelligence Surveillance Act (FISA) after the President threatened to veto its passage. According to [CNBC](https://www.cnbc.com/2020/05/28/fisa-bill-house-withdraws-surveillance-legislation-amid-trump-veto-threat.html), the "The bill would reauthorize divisive foreign surveillance tools that aim to help U.S. law enforcement officials track suspected terrorists or spies.” Several months ago, an inspector’s general report highlighted that there were issues with FISA’s application in monitoring Trump campaign aide Carter Page. 
+
+The American Civil Liberties Union (ACLU) has [pushed back against the use of stingrays](https://techcrunch.com/2020/05/27/aclu-ice-stingray-documents/), a cell-site simulator, by immigration authorities. Alexia Ramirez, a spokeswoman for the ACLU, stated “When cell site simulators search for an individual, they necessarily also sweep in sensitive, private information about innocent bystanders.” 
+
+Arizona has filed a lawsuit against Google for tracking users, even if they have opted out of location tracking. According to State Attorney General Mark Brnovich, the location tracking is against the [Arizona Consumer Fraud Act](https://nakedsecurity.sophos.com/2020/05/29/google-sued-by-arizona-for-tracking-users-locations-in-spite-of-settings/): 
+
+>While Google users are led to believe they can opt-out of location tracking, the company exploits other >avenues to invade personal privacy. It’s nearly impossible to stop Google from tracking your movements >without your knowledge or consent.
+
+A Princeton postdoctoral researcher Gunes Acar found that turning off location history doesn’t stop Google apps from storing your information. Part of the issue is that users were given a false sense of control over the privacy settings. 
+
+In Minnesota, authorities are using [contact tracing](https://twitter.com/i/events/1266773270939881472) to identify the locations of the arrestees. The Minnesota Public Safety Commission John Harrington stated that a number of the individuals may be from out of state. 
+
+## On Copyright Holders … 
+
+As we discussed in class, one of the principal stakeholders of the internet are the copyright holders. The current law protecting copyright on the internet is the [Digital Millennium Copyright Act (DMCA)](https://www.copyright.gov/legislation/dmca.pdf). The [U.S. Copyright Office](https://www.copyright.gov/policy/section512/section-512-full-report.pdf) is calling for stricter enforcement of the DMCA, specifically by pushing back against Section 512 Safe Harbor Provision. Similar to Section 230, this protects service providers from liability. Specifically, Section 512 protects copyright liability from copyright content that is uploaded onto their platform. Now, this issue may have some crossover with some of the first amendment arguments surrounding the Section 230 conversations in that it enables corporations to potentially censorship and in some instances, deciding fair use of copyrighted material. 
+
+So who are the winners here? Well, it is complicated. The Copyright Office states that rights holders are the ones that are being unduly affected. However, it also presents issues to web users that have experienced “unfair harassment by platforms’ automated rights enforcement systems and copyright trolls.” Tech platforms are alleged to have undue power in determining copyright content, removing it, and removing “repeat infringers,” though I think the cost of this effort should also be noted. I don’t anticipate that it is easy actively identifying content, tracking users that have abused the DMCA, and removing that content. Internet service providers are also suggested to play a role in identifying copyright abusers in downloading peer-to-peer clients. 
+
+So what will change when Congress updates the DMCA later this year? Models for resolving takedown disputes, harsher penalties, and guidelines around losing safe harbor provisions.
+
+
+## On HBO Max? 
+
+There have been a lot of changes to HBO recently. They recently launched HBO Max … however they don’t make it easy to acquire the service. I am all for [cutting the cord](https://www.techhive.com/article/3346020/cord-cutter-beginners-guide.html), though I feel that we may have moved in the opposite direction. We now have a glut of streaming apps, because instead of providing one alternative, now we have many alternatives. Each with their own exclusive programming and license rights to content. 
+
+Back to HBO Max. I am not sure I fully understand how to get HBO Max, because it seems that HBO Max has agreements with select streaming platforms. Amazon Fire and Roku, while streaming devices, do not appear to support HBO Max. Additionally, depending on the age of your streaming device or television, you may not be able to watch it anyways. Well, who needs HBO when you have Cyber News! 
+
+Anyways, [Edmund Lee @edmundlee](https://twitter.com/ShiraOvide/status/1266069534965981184) published a really great flow chart to let you know if you can actually watch HBO Max.   
