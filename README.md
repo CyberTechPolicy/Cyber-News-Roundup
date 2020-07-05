@@ -196,8 +196,7 @@ When we consider the role of stakeholders, we need to consider their current rel
 Never underestimate the power of [K-Pop](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html). 
 
 "Here there be unindexed monsters and anonymity."
-
-https://twitter.com/evacide/status/1276264808011067393
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">That thing an hour after an interview when you suddenly can&#39;t recall if you mixed up the Dark Web and the Deep Web. We should replace the whole thing with the Deep Dark Web and put a sign on it that says &quot;Here there be unindexed monsters and anonymity.&quot;</p>&mdash; Eva (@evacide) <a href="https://twitter.com/evacide/status/1276264808011067393?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # Cyber News Roundup June 14, 2020
