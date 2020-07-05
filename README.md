@@ -1,3 +1,205 @@
+# Cyber News Roundup July 5, 2020
+
+## On the Internet ... 
+
+I wanted to start with a piece in the Technology section of the New York Times, [Goodbye to the Wild Wild Web](https://www.nytimes.com/2020/07/02/technology/goodbye-to-the-wild-wild-web.html). Over the last 48 hours, many platforms have changed their policies regarding hate speech, banning, suspending, and removing a number of threads, groups, and users that were conducting "hateful content." 
+
+According to Kevin Roose, the changes while not necessarily incremental but simultaneous, feels like a shift. 
+
+>a sign that the Wild Wild Web — the tech industry’s decade->long experiment in unregulated growth and laissez-faire >platform governance — is coming to an end. In its place, a >new culture is taking shape that is more accountable, more >self-aware and less willfully naïve than the one that came >before it.
+
+So let's go to these changes! 
+
+## On Reddit ... 
+
+On June 29, 2020, [Reddit banned](https://www.theverge.com/2020/6/29/21304947/reddit-ban-subreddits-the-donald-chapo-trap-house-new-content-policy-rules) the r/The_Donald and r/ChapoTrap House subreddits, along with 2,000 other communities after they [banned hate speech](https://www.reddit.com/r/announcements/comments/hi3oht/update_to_our_content_policy/). The company policy comes after a Black Lives Matter protest where the users let several subreddits go dark over the companies lax policies around hosting and promoting racist content. The company [released a notice](https://www.reddit.com/r/announcements/comments/gxas21/upcoming_changes_to_our_content_policy_our_board/) that they are assessing their policies.
+
+
+The Chief Executive at Reddit Steve Huffman told Roose that he rejected one of the Web's core values, that "the idea that private internet platforms exist to provide a forum for all ideas, no matter how toxic." These platforms existed for free speech, and at times stretched the limits of our understanding (and tolerance) for free speech online. However, Huffman has changed his tune, and stated that, "hate, harassment, bullying — prevents others from speaking, and that a no-limits platform culture often empowers those least committed to civil conversation." 
+
+It appears that we are entering a new era of speech online. 
+ 
+However, these changes don't come with out their reactions or responses. If you silence the voices of individuals online - yes even the bullies, the trolls, the self-penned free speech advocates - there is going to be a reaction. The burden now comes to the unpaid speech moderators ([volunteers](https://www.theverge.com/interface/2020/6/9/21283442/content-moderation-racism-facebook-reddit-nextdoor-karen)), that need to enforce these policies. Many moderators receive death threats for trying to keep discussions civil. Partly because individuals don't have an understanding of free speech, or [what is protected under the first amendment](https://www.freedomforuminstitute.org/first-amendment-center/primers/basics/). 
+
+The Verge's Casey Newton recommended paying moderators. It is an interesting suggestion, and I think it may come with its own issues. Monetary compensation is one way of incentivizing moderators, but how can we also incentivize or disincentivize the bullies, the trolls, and people who break the hate policies? Paying moderators deals with one part of the issue, but not the other. And what happens once individuals don't feel that they are able to express their views on Reddit ... they likely go to another social media site, or venue. What happens if those sites, [like NextDoor](https://www.theverge.com/21283993/nextdoor-app-racism-community-moderation-guidance-protests), are also alienating. So does the new policy [solve the issue](https://docs.google.com/document/d/1iBK4P4zL_qwpI5POfj2cw0bgV4LlxhsGi0E3urjlB88/edit#heading=h.kiig5h6am2j), or solve the issue on Reddit? Or [Facebook](https://www.facebook.com/community/whats-new/navigating-community-through-race-social-issues/)? Or Twitter? I guess we'll wait and see ... 
+
+
+## On YouTube ...
+
+Similarly, [YouTube has banned](https://www.theverge.com/2020/6/29/21307303/youtube-bans-molyneux-duke-richard-spencer-conduct-hate-speech) white supremacist channels, including Stefan Molyneux, David Duke, and Richard Spencer, as well as American Renaissance, Spencer's National Policy Institute. This is part of [YouTube's continued crackdown](https://www.theverge.com/2019/6/5/18652576/youtube-supremacist-content-ban-borderline-extremist-terms-of-service) on white supremacist content, which started in June 2019. Spencer is appealing the suspension, and Molyneux stated the impact on his ongoing conversation on white supremacy and racist science. 
+
+
+## On Twitch ... 
+
+[Twitch temporarily banned](https://www.theverge.com/2020/6/29/21307145/twitch-donald-trump-ban-campaign-account) President Trump for hateful content. Earlier in the week, Twitch stated that it was [cracking down on harassment](https://www.theverge.com/2020/6/25/21303185/twitch-sexual-harassment-assault-permanent-bans-streamers) within the community. President Trump's campaign launched his Twitch page in October, and the content that got him removed was from a 2015 rally that was being rebroadcast. 
+
+## On TikTok ... 
+
+[India banned Chinese apps like TikTok](https://www.theverge.com/2020/6/29/21307014/india-ban-tiktok-wechat-china-apps) for "[engaging] in activities ... [prejudicial to sovereignty](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1635206#) and integrity of India." While there are security concerns over TikTok and children's privacy, and [data privacy](https://arstechnica.com/gadgets/2020/06/tiktok-and-53-other-ios-apps-still-snoop-your-sensitive-clipboard-data/), there does not appear to be a clear indication that geopolitics are connected to the apps. 
+
+## On Twitter ...
+
+[Twitter is continually challenging accounts](https://www.cnet.com/news/twitter-challenges-millions-of-accounts-every-week-to-determine-if-theyre-bots-or-not/) to determine if they are humans, bots, or something in between like "humans in the loop." This continues to be a difficult issue, since the social media company doesn't necessarily require engagement on their platform. 
+
+[Twitter may also reconsider](https://www.nytimes.com/2020/07/01/technology/social-media-superspreaders.html) how it moderates users based upon the number of followers they have. 
+
+
+## On Facebook
+
+[Many companies have pledged](https://arstechnica.com/tech-policy/2020/06/zuckerberg-promises-future-change-as-facebook-advertiser-boycott-grows/) an "ad pause" on Facebook in response to their policies on content from high-profile politicians. Similar to those Reddits that went dark in support of Black Lives Matter, the advertisers re showing their support following a campaign from special interest groups Anti-Defamation League, the NAACP, and Color of Change as part of the [Stop Hate for Profit](https://arstechnica.com/tech-policy/2020/06/zuckerberg-promises-future-change-as-facebook-advertiser-boycott-grows/) campaign. The [boycott claims](https://www.adl.org/news/press-releases/adl-naacp-sleeping-giants-common-sense-free-press-and-color-of-change-call-for) that Facebook has a, "long history of allowing racist, violent, and verifiably false content to run rampant on its platform." 
+
+
+## On Google ... 
+
+According to [CNET](https://www.engadget.com/uk-cma-digital-markets-unit-facebook-google-advertising-131044810.html): 
+
+>The UK's Competition and Markets Authority (CMA) has called >on the UK government to create “a new pro-competition >regulatory regime” that can control Facebook, Google and >other technology companies that are primarily funded by >digital advertising.  
+
+One of the objectives of the unit is "healthy competition" by promoting "fairness-by-design." The CMA may require Google to hand over its search data so rivals can improve their search algorithms. The Digital Markets Taskforce will run for six months, and deliver its findings by the end of the year. 
+
+In other Google news, [anti-trust regulators in the European Union](https://www.theverge.com/2020/7/3/21312383/google-fibit-acquisition-antitrust-data-regulatory-eu-scrutiny) have sent questionnaires to to Google and Fitbit's rivals to determine how the acquisition would affect them.
+Depending on the outcome, the regulators can approve the deal, ask concessions from Google, or open a four month investigation to further explore the matter.  
+
+
+## On Tech Companies 
+
+Amazon, Facebook, Alphabet, and Google are going to [testify in an antirust inquiry](https://www.theverge.com/2020/7/2/21311049/house-judiciary-committee-antitrust-investigation-amazon-facebook-alphabet-google-apple-ceo-testify
+) before the House Judiciary antitrust subcommittee. 
+
+
+## On Trademarks ... 
+
+[The US Supreme Court has ruled](https://www.theverge.com/2020/7/1/21309739/booking-trademark-name-supreme-court-ruling-website) that "Booking[.]com" is eligible for a federal trademark. Previously, the application was denied because the name was deemed too generic. However, the decision was overturned on account of how consumers may view and associate the name Booking[.]com with hotel, and travel bookings. The decision will stop copycats from attempting to use the Booking[.]com name, though it may lead to additional generic website name applications. 
+
+
+## On Encryption 
+
+Omg Thursday, the Senate Judiciary Committee [voted to approve the EARN IT Act](https://www.theverge.com/2020/7/2/21311464/earn-it-act-section-230-child-abuse-imagery-facebook-youtube-lindsey-graham), which will weaken the Section 230 protections of the Communications Decency Act (CDA). Senator Leslie Graham filed an amendment that addressed some of the [previous concerns regarding encryption](https://www.judiciary.senate.gov/download/grahams-amendment-to-s3398-managers_-oll20670). 
+
+The purpose of EARN It is to have a mechanism to identify child abuse images online ... but often at the expense of encryption. The EARN IT Act uses FOSTA as a framework to find venues for prostitution. Last week, we already addressed how that has not gone well in the past. 
+
+While encryption may be perceived as the target, Senator Blumenthal, a co-sponsor of the bill, stated “This bill is not about encryption and it never will be.” I think there is a gap in their understanding of their objectives, and how to achieve them. While the new bill weakens language to force companies to create encryption backdoors for law enforcement, the bill may still create potential problems through inconsistent standards.
+
+
+## On Decryption ... 
+
+[Here is a really interesting read](https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked) on how French authorities gained access to Encrochat, and took down hundreds in an organized crime bust. 
+
+https://arstechnica.com/tech-policy/2020/07/police-infiltrate-encrypted-phones-arrest-hundreds-in-organized-crime-bust/
+
+
+## On Cloud Computing 
+
+I will leave you with [this article](https://www.nytimes.com/2020/06/30/technology/national-cloud-computing-project.html), on how scientists will now have access to large datasets and powerful computers previously available to tech giants. This signals an increased initiative from the American government to research artificial intelligence. It almost feels like looking back and seeing the creation of Skynet ... though I am sure this will be used mostly for good. 
+
+
+
+
+# Cyber News Roundup June 28, 2020
+
+## On Facial Recognition ...
+
+A Michigan man was [wrongfully arrested](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html) for a flawed match with a facial recognition algorithm. The Michigan police used facial recognition from a company called DataWorks Plus. The company adds face recognition tools from outside vendors to their existing product of mug shot management. The individual that was wrongfully arrested was matched with a surveillance photo from a Detroit retail store. The software compared the surveillance photo to the state's facial recognition database. 
+
+As we have previously discussed, [researchers have found](https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html) biases in facial recognition. Part of the reason is the high number of images of white men that are being used to train the dataset. This means that facial recognition may be better at identifying a white man, and worse at identifying white females, and darker-skinned males and females. While there could be advantages and disadvantages of this skew, we can see the potential implications when individuals are wrongfully accused because of facial recognition. However, we can also look at the method that facial recognition is being used in law enforcement investigations. Arresting someone based upon one image may not be good enough just cause, unless there is other evidence to help identify the individual. 
+
+A coalition of researchers have recently [called out](https://medium.com/@techtoprisonpipeline/9b5b14366b16) a scientific paper that claimed to predict whether someone was criminal. A group of AI researchers have asked Springer Nature on a paper titled, "A Deep Neural Network Model to Predict Criminality Using Image Processing" which they intended to publish in their _Transactions on Computational Science & Computational Intelligence_.
+
+
+## On Decryption ...
+
+Remember how during the semester we spoke about the (EARN IT Act)[https://assets.documentcloud.org/documents/6746282/Earn-It.pdf]? A bill that was threatening encryption by eliminating some of the immunity protections offered by Section 230 of the Communications Decency Act (CDA)? I recommend reading the very in-depth writeup from the [Stanford Law School Center for Internet and Society](https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it). Essentially, the bill was recommended to combat child sex abuse material (CSAM) online. The bill's proponents, Senators Lindsey Graham (R-SC) and Richard Blumenthal (D-C) feel that the existing regulations around CSAM online, federal law [18 U.S. Code CHAPTER 110—SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN](https://www.law.cornell.edu/uscode/text/18/part-I/chapter-110) does not put enough burden on online service providers. Begging the question ... is there a need to amend Section 230, or is there something else at play? 
+
+The bill requires online service providers to EARN Section 230 protections by following a list of best practices. End-to-end encryption may be viewed as contrary to the best practices because they prevent providers from viewing content, and detecting CSAM. Currently, online service providers need to remove content that is flagged as CSAM, but they do not need to proactively monitor for CSAM content.
+
+Now, there are pros and cons to these arguments ... which we discussed in class. On the one hand, CSAM is a universally agreed upon bad thing. Empowering online service providers to proactively monitor for CSAM content is a good thing, but if it is at the expense of end-to-end encryption, this could be troubling for the security of the internet. Now, we are also using [SESTA/FOSTA](https://www.congress.gov/bill/116th-congress/senate-bill/3165/text) as precedent. It was supposed to protect sex workers, but instead made it more difficult for them to screen clients and pushed their activity [into venues](https://www.nytimes.com/2019/12/17/technology/fosta-sex-trafficking-law.html where it can not be easily tracked. [Child welfare activists have criticized](https://www.nytimes.com/2020/02/05/technology/facebook-encryption-child-exploitation.html) platforms like Facebook for their encryption plans for Facebook Messenger, since 2018 reports indicated that [45 million photos of videos](https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html) and children are being shared on legitimate platforms.    
+
+So where does that leave us? Encryption good, or encryption bad? 
+
+Well, politicians are continuing to lean towards encryption bad. Senator Graham is up to his old tricks, along with Cotton and Blackburn. Their new bill, “(Lawful Access to Encrypted Data Act of 2020)[https://www.docdroid.net/IHiIrMA/oll20597-pdf],” is an attack on end-to-end encryption in online services. Again, Stanford has an excellent writeup on the [new bill](https://cyberlaw.stanford.edu/blog/2020/06/there%E2%80%99s-now-even-worse-anti-encryption-bill-earn-it-doesn%E2%80%99t-make-earn-it-bill-ok#:~:text=Dubbed%20the%20%E2%80%9CLawful%20Access%20to,from%20offering%20encrypted%20devices%20that). Will LAED end criminal activity? The [bill](https://www.judiciary.senate.gov/press/rep/releases/graham-cotton-blackburn-introduce-balanced-solution-to-bolster-national-security-end-use-of-warrant-proof-encryption-that-shields-criminal-activity) is targeted at "warrant proof" encryption devices, citing examples when law enforcement was unable to proceed with investigations because of method hide "virtual identity," through VPNs, encrypted devices, and overseas email accounts.
+
+
+## On Encryption (DoH!) ... 
+
+Last year, [Mozilla claimed](https://www.theregister.com/2019/11/04/mozilla_doh_congress/) that Internet Service Providers were falsely claiming that they were unable to implement [DNS-over-HTTPS (DoH)](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/). DoH transmits domain name queries to a DNS server over encrypted HTTPS connection rather than plaintext. The encrypted wrapper on the DNS queries prevents anyone on the network from eavesdropping or tampering with requests (think integrity and confidentiality of communications). Great for users, bad for ISPs. 
+
+Why? Well, there was concern that ISPs may not be able to access subscribers' internet activity if the communications are encrypted. I know, this an oversimplified reasoning. Consider this, in July 2019, the Internet Services Providers' Association (nominated)[https://www.ispa.org.uk/ispa-announces-finalists-for-2019-internet-heroes-and-villains-trump-and-mozilla-lead-the-way-as-villain-nominees/] Mozilla as an internet villain, "for their proposed approach to introduce DNS-over-HTTPS in such a way as to bypass UK filtering obligations and parental controls, undermining internet safety standards in the UK." I guess it should be noted that in the UK, the Digital Economy Act of 2017 requires websites serving adult content to verify the age of their visitors. Additionally, there (was concern)[https://www.theregister.com/2019/06/10/iwf_dns_https/] that DoH would inhibit efforts to fight child sexual abuse images.
+
+It should be noted that other stakeholders have access to unencrypted queries, like Cloudflare of Google, and could filter certain sites. So it appears that ISPs would receive the brunt of the disadvantages, which would namely be prevented from accessing subscriber data.  
+
+But in 2019, both [Google](https://blog.chromium.org/2019/10/addressing-some-misconceptions-about.html) and [Mozilla](https://support.mozilla.org/en-US/kb/firefox-dns-over-https#w_about-the-us-rollout-of-dns-over-https) started to roll out DoH by default. But Firefox's DoH service is provided by Cloud-flare's 1.1.1.1 DNS service, which denies third party access to DNS queries but provided that data to Cloudflare. They promised to adhere to their (privacy policy)[https://developers.cloudflare.com/1.1.1.1/privacy/firefox/], and limit the amount of data about DNS requests only collecting certain information. 
+
+Recently though, (ISPs like Comcast)[https://www.theregister.com/2020/06/26/firefox_comcast_dns_https/] have discovered that they too can provide DoH! Comcast stated that this move will make the user experience more seamless, and enhance the cooperation between browsers and ISPs. Some people argue that allowing ISPs to provide DoH gives them the ability to inspect and exploit incoming requests ... leading to those same integrity and confidentiality issues that DoH was looking to resolve :-( 
+
+If we all recall, (in 2017)[https://jolt.law.harvard.edu/digest/congress-rolls-back-fcc-broadband-isp-privacy-rules], Federal Communication Commission Chairman Ajit Pai rolled back the ISP privacy rules. The FCC undid many pro-consumer proposals from Wheeler's FCC, reclassifying internet providers as telecommunications services and making them subject to (Title II of the Telecommunications Act)[https://www.law.cornell.edu/uscode/text/47/222]. Pai was in favor of reversing these privacy laws, not requiring ISPs to inform consumers of the information being collected by ISPs. Additionally, there would be no opt-in  consent for sharing sensitive information, which also includes personally identifiable information. Congresspeople blocked the rule from taking effect, and various advocacy groups pushed back against the FCC. However, (some have argued)[https://www.technologyreview.com/s/603979/why-the-senates-vote-to-throw-out-privacy-laws-for-isps-isnt-all-bad/] that without a baseline law to govern privacy, there are mismatched priorities. The laws were only designed to prevent ISPs from tracking consumer information, not larger tech companies like Facebook and Google. 
+
+Regardless, I think that implementing DoH is a good measure to protect Internet privacy. However, it is also important to note which stakeholders are going to be responsible for implementing these policies, and where their incentives lie.  
+
+
+## On Antitrust ...
+
+Attorney General William Barr appears to be [targeting Google](https://www.nytimes.com/2020/06/25/technology/barr-google-investigation.html) with a potential anti-trust case, for "abusing its power in the market for advertising technology and search products." While there are no official details, it appears that he is drafting a case memo to test its legal argument.
+
+Meanwhile ... 
+
+[Facebook loses an antitrust decision in Germany over data collection](https://www.nytimes.com/2020/06/23/technology/facebook-antitrust-germany.html). According to the New York Times, Germany ruled that Facebook abused its dominance to illegally harvest user data. The Federal Court of Justice ruled that Facebook aggregated user data from platforms like WhatsApp, Instagram, outside websites, and third-part apps. This is a momentous decision for privacy advocates, which may have a significant impact on how Facebook collects and uses user data. There are two potential outcomes ... a lower court could rule in favor of Facebook, which could then be appealed at a higher court, or it could be sent to the European Court of Justice. Facebook defends their position, and is [one of many tech companies](https://www.nytimes.com/2020/06/16/business/apple-app-store-european-union-antitrust.html) to be scrutinized by European regulators. 
+
+
+## On Advertisers (and Facebook) ... 
+
+Well, the hits keep on coming for Facebook. The social media giant is attaching labels to their posts that discuss voting, directing users to more accurate information. However, unlike Twitter that started providing labels for politicians like President Trump, [Facebook will label](https://www.nytimes.com/2020/06/26/technology/facebook-labels-advertisers.html) similar content "newsworthy" because it is by an important political figure. Since Facebook has not technically eliminated hate speech, just changed how they handle the information, causing several advertisers to pull back, including Unilever, Coca-Cola, and Levi Strauss. 
+
+
+## On Storing Data ... 
+
+Google will start automatically deleting location history and web and app activity after 18 months for new user accounts. Previously, users had to go into the product settings to change an option to delete. Google did not want to make this change on existing accounts, as users may not expect the change. However, Google will start alerting their users of the change through email promotions of its products. 
+
+According to [the New York Times](https://www.nytimes.com/2020/06/24/technology/google-data-storage.html), "The shift addresses the power of defaults, or predetermined choices made for the user, to guide people’s behavior in how they use online services." I really liked their phrasing, **the power of defaults**. Default user policies, like deletions of user content, can have a huge effect on user experience. _What is the baseline security that is afforded to a user without making any substantial changes?_ 
+
+
+## On Tracking ... 
+
+Part of Google's changes have to do with new privacy settings. Clearly, some of these changes are motivated by user feedback. However, there is also significant feedback from privacy advocates, governments, political and economic unions, other special interest groups. For example, about a month ago, we touched on a [class action lawsuit](https://www.zdnet.com/article/google-faces-class-action-for-allegedly-tracking-private-browsing-activity/) being filed against Google by tracking users across the internet, regardless if the person was in private browsing mode.  
+
+Apple is apparently taking some (policy and design) cues from Google/ Android, and is [requiring third-party apps](https://www.nytimes.com/2020/06/23/technology/apple-announces-new-privacy-features.html
+) to ask permission to track you. This should give users more transparency over their user data. This should _hopefully_ minimize [fingerprinting](https://www.nytimes.com/2019/07/03/technology/personaltech/fingerprinting-track-devices-what-to-do.html) online, or possibly require advertisers to craft more creative solutions for advertisers to identify, and track you. 
+
+
+## On Internet Middlemen ... 
+
+And blockchain! 
+
+You know that I really enjoy the roles of Internet stakeholders. _What drives their decisions? What behavior is incentivized? How is bad behavior disincentivized? What are the policy gaps? Are the policy gaps being followed by laws, regulations, compliance, or some other guidance?_ 
+
+Another question is _how is behavior being governed?_ 
+
+[New York Times](https://www.nytimes.com/2020/06/24/technology/internet-middlemen.html) had a nice writeup regarding Internet middlemen. These are the services that connect buyers and sellers (called [two-sided marketplaces](https://medium.com/sequoia-capital/two-sided-marketplaces-and-engagement-ded7d5dcfe71) . They set up the infrastructure, provide a marketplace, and charge a commission for each sale. While this helps buyers, sellers don't like paying 15 to 30 percent on each sale. Earlier in the semester we discussed changes to YouTube's monetization policies ... changes that may seem arbitrary, however can ultimately change a business model. 
+
+A company called "[Braintrust](https://www.usebraintrust.com/)" is using blockchain tokens to implement self-governance. They work by connecting freelance software coders and other technical workers, however other owners can collecting ownership interests for referring potential freelancers, and vetting peers. Interesting concept, will see if this gains traction within the industry. 
+
+
+## On When the Hero Becomes the Villain ...
+
+There are two different sides to the David and Goliath tale, one where David is the hero, and [one where he is the villain](https://www.youtube.com/watch?v=ziGD7vQOwl8). However, sometimes we see a third interpretation where the hero becomes the villain. 
+
+[New York Times](https://www.nytimes.com/2020/06/22/technology/big-tech-underdogs.html) (I know, I am on a NYTimes kick this week) had a really nice commentary on tech companies that got started as underdogs. Many of them compared themselves to their tech overlords as being younger, scrappier, more creative, and fun. Over time, these tech companies developed into the corporate entities that they once reviled. This commentary also states that they are targeting app makers, since these companies are often the gate keepers of the marketplaces where apps are commonly sold. This is a short read, but I recommend checking out this article, along with an Opinion piece on Big Tech, "[Is It Finally Hammer Time for Apple and Its App Store?](https://www.nytimes.com/2020/06/19/opinion/apple-app-store-hey.html)."
+
+
+## On Recovering the Digital Economy ... 
+
+When we consider the role of stakeholders, we need to consider their current relationship, and how this can be changed. In a [Wall Street Journal](https://blogs.wsj.com/cio/2020/06/12/building-a-more-resilient-data-driven-economy/) commentary, they profile a new book titled "(Building the New Economy)[https://wip.mitpress.mit.edu/new-economy]." The book by Sandy Pentland looks into how our economy is changing, through social factors like coronavirus, and new technologies. 
+
+
+## In Closing ... 
+
+
+Never underestimate the power of [K-Pop](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html). 
+
+"Here there be unindexed monsters and anonymity."
+
+https://twitter.com/evacide/status/1276264808011067393
+
+
 # Cyber News Roundup June 14, 2020
 
 Happy Sunday, 
